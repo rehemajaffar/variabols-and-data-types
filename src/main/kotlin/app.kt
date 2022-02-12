@@ -1,5 +1,5 @@
 fun main() {
-    var  name ="Rehema"
+    var  name ="Rehema juma"
     println(name)
     var age ="21"
     println(age)
@@ -9,5 +9,10 @@ fun main() {
     println(weight)
     var country ="kenya"
     println(country)
+
+    var iskenya = "true"
+    var isnotkenya = "false"
+    println("kenya")
+    println("notkenya")
 
 }
